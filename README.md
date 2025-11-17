@@ -62,27 +62,8 @@ darkImg5.png
 
 ## 🏃‍♂️ How to Run
 
-1. Save all files in a single folder.
-2. Open **index.html** in any browser.
-3. Click the **Light Mode / Dark Mode** button to toggle themes.
-
----
-
-## ⚠️ Note / Fix
-
-The following part in the code is incorrect:
-
-```
-toggle.style = "black";
-toggle.backgroundColor = "grey";
-```
-
-It should be:
-
-```
-toggle.style.color = "black";
-toggle.style.backgroundColor = "grey";
-```
+1. Open **index.html** in any browser.
+2. Click the **Light Mode / Dark Mode** button to toggle themes.
 
 ---
 
